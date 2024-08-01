@@ -3,4 +3,39 @@
     display: flex;
     justify-content: start;
     align-items: center;
+
+    background-image: url("https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.proyecto{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-1{
+    background-image: url('assets/proyecto1.gif');
+}
+
+#proyecto-2{
+    background-image: url('assets/proyecto2.gif');
+}
+
+#proyecto-3{
+    background-image: url('assets/proyecto3.gif');
+}
+
+#proyecto-4{
+    background-image: url('assets/proyecto4.gif');
+}
+
+.text-shadow-1 {text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);}
+.text-shadow-2 { text-shadow: 0 .25rem .5rem rgba(0, 0, 0, .25); }
+.text-shadow-3 { text-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .25); }
+
+.texto-gigante{
+    font-size: 70px;
 }
