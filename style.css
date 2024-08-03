@@ -1,3 +1,18 @@
+body {
+    background-color: #212f3d;
+    color: #f0f3f4;
+    font-family: 'Normal-Text', sans-serif;
+    font-size: 20px;
+}
+
+.title {
+    font-family: 'ComicTitle', sans-serif;
+}
+
+p.title {
+    font-size: 8px;
+}
+
 #presentacion{
     height: 90vh;
     display: flex;

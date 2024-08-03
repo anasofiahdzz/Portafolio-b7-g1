@@ -33,6 +33,6 @@ typewriterFrase
   .typeString('"... Divide y vencerás ..."')
   .pauseFor(300)
   .deleteAll()
-  .typeString('nombre de frase')
+  .typeString('Julio César')
   .pauseFor(1000)
   .start();
